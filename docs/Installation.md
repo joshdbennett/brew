@@ -29,7 +29,7 @@ export HOMEBREW_CORE_GIT_REMOTE="..."  # put your Git mirror of Homebrew/homebre
 ```
 
 The default Git remote will be used if the corresponding environment variable is unset.
-
+ 
 ## Alternative Installs
 
 ### Linux or Windows 10 Subsystem for Linux
